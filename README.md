@@ -11,7 +11,7 @@ This is a data wrangling project cleaning the names of Boston Metropolitan Area'
 
 ## Source files
 
-- `Data Wrangling | Boston, Massachusetts - OpenStreetMap .ipynb` -- The notebook containing the analysis
+- `Data Wrangling | Boston, Massachusetts - OpenStreetMap.ipynb` -- The notebook containing the analysis
 - `data/boston_massachusetts.osm` -- The original dataset downloaded from OpenStreetMap
 - `*.csv` -- The .csv files created during the data wrangling process
 - `boston.db` -- The SQL database created during the data wrangling process
